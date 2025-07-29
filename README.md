@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Niyaz Ali
 
-🎯 **Frontend Developer | Data Analyst**  
+🎯 **Web Developer | Wordpress Developer**  
 📍 Based in Pakistan | Intern @ OGRA
 
 ---
